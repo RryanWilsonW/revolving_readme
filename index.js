@@ -61,7 +61,7 @@ const questions = [
 ];
 //This will grab the inquirer
 inquirer .prompt(questions) .then((response) =>
-fs.appendFile('NEWREADME.md',  
+fs.appendFile('README.md',  
 `#Title
 ${response.projectName}
 
