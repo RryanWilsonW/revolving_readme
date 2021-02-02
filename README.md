@@ -32,6 +32,6 @@
   This page is covered under the license of MIT.
 
   ## Video
-  ![Screen Recording of Project]({data.linkToVideo})
+  ![Screen Recording of Project](./utils/revolving-rm.gif)
 
   
